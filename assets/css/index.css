@@ -1,24 +1,28 @@
-.header{
-    background-color: white;
-    color: white;
+*.header{
+    background-color: bisque;
+    color: bisque;
+    margin: auto;
 }
 
-body{
-    background-color: grey;
+.body{
+    background-color: aqua;
+    margin: 10px;
 }
 .inicio{
     background-color: orange;
     color: aqua;
     font-size: small;
-    margin: 10px;
+    margin: 50px;
 }
 
 .a{
     color: maroon;
+    margin: 10%;
 }
 
 .principal{
     background-color: aqua;
+    margin: 50px;
 }
 .menu{
     background-color: aqua;
